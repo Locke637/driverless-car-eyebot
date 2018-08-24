@@ -1,0 +1,90 @@
+/home/irip/Downloads/clion-2018.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/irip/850Evo/qzhlsq/transito-cv
+-- Using CMake version: 3.12.0
+-- Compiling dlib version: 19.15.99
+-- Searching for BLAS and LAPACK
+-- Searching for BLAS and LAPACK
+-- Checking for module 'cblas'
+--   No package 'cblas' found
+-- Found OpenBLAS library
+-- Found LAPACK library
+-- Looking for cuDNN install...
+-- Found cuDNN: /usr/lib/x86_64-linux-gnu/libcudnn.so
+-- Enabling CUDA support for dlib.  DLIB WILL USE CUDA
+-- C++11 activated.
+-- Configuring done
+CMake Warning at CMakeLists.txt:26 (ADD_EXECUTABLE):
+  Cannot generate a safe runtime search path for target hog_detector because
+  files in some directories may conflict with libraries in implicit
+  directories:
+
+    runtime library [libz.so.1] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /home/irip/anaconda3/lib
+    runtime library [libsqlite3.so.0] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /home/irip/anaconda3/lib
+
+  Some of these libraries may not be found correctly.
+Call Stack (most recent call first):
+  CMakeLists.txt:33 (add_source)
+
+
+CMake Warning at CMakeLists.txt:26 (ADD_EXECUTABLE):
+  Cannot generate a safe runtime search path for target view_hog because
+  files in some directories may conflict with libraries in implicit
+  directories:
+
+    runtime library [libz.so.1] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /home/irip/anaconda3/lib
+    runtime library [libsqlite3.so.0] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /home/irip/anaconda3/lib
+
+  Some of these libraries may not be found correctly.
+Call Stack (most recent call first):
+  CMakeLists.txt:36 (add_source)
+
+
+CMake Warning at CMakeLists.txt:26 (ADD_EXECUTABLE):
+  Cannot generate a safe runtime search path for target olddetect because
+  files in some directories may conflict with libraries in implicit
+  directories:
+
+    runtime library [libz.so.1] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /home/irip/anaconda3/lib
+    runtime library [libsqlite3.so.0] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /home/irip/anaconda3/lib
+
+  Some of these libraries may not be found correctly.
+Call Stack (most recent call first):
+  CMakeLists.txt:40 (add_source)
+
+
+CMake Warning at CMakeLists.txt:26 (ADD_EXECUTABLE):
+  Cannot generate a safe runtime search path for target train_object_detector
+  because files in some directories may conflict with libraries in implicit
+  directories:
+
+    runtime library [libz.so.1] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /home/irip/anaconda3/lib
+    runtime library [libsqlite3.so.0] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /home/irip/anaconda3/lib
+
+  Some of these libraries may not be found correctly.
+Call Stack (most recent call first):
+  CMakeLists.txt:34 (add_source)
+
+
+CMake Warning at CMakeLists.txt:26 (ADD_EXECUTABLE):
+  Cannot generate a safe runtime search path for target detect because files
+  in some directories may conflict with libraries in implicit directories:
+
+    runtime library [libz.so.1] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /home/irip/anaconda3/lib
+    runtime library [libsqlite3.so.0] in /usr/lib/x86_64-linux-gnu may be hidden by files in:
+      /home/irip/anaconda3/lib
+
+  Some of these libraries may not be found correctly.
+Call Stack (most recent call first):
+  CMakeLists.txt:35 (add_source)
+
+
+-- Generating done
+-- Build files have been written to: /media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug

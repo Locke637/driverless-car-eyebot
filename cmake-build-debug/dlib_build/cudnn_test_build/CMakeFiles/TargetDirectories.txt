@@ -1,0 +1,3 @@
+/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/dlib_build/cudnn_test_build/CMakeFiles/rebuild_cache.dir
+/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/dlib_build/cudnn_test_build/CMakeFiles/edit_cache.dir
+/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/dlib_build/cudnn_test_build/CMakeFiles/cudnn_test.dir

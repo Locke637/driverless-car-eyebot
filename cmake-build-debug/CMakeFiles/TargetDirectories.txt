@@ -1,0 +1,10 @@
+/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/CMakeFiles/hog_detector.dir
+/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/CMakeFiles/view_hog.dir
+/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/CMakeFiles/olddetect.dir
+/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/CMakeFiles/train_object_detector.dir
+/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/CMakeFiles/detect.dir
+/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/dlib_build/CMakeFiles/edit_cache.dir
+/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/dlib_build/CMakeFiles/rebuild_cache.dir
+/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/dlib_build/CMakeFiles/dlib.dir

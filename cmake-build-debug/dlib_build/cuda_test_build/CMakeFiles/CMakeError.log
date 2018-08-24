@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/dlib_build/cuda_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5d95e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5d95e.dir/build.make CMakeFiles/cmTC_5d95e.dir/build
+make[1]: Entering directory '/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/dlib_build/cuda_test_build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5d95e.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -fPIC    -o CMakeFiles/cmTC_5d95e.dir/CheckSymbolExists.c.o   -c /media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/dlib_build/cuda_test_build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_5d95e
+/home/irip/Downloads/clion-2018.2/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5d95e.dir/link.txt --verbose=1
+/usr/bin/cc -fPIC     -rdynamic CMakeFiles/cmTC_5d95e.dir/CheckSymbolExists.c.o  -o cmTC_5d95e 
+CMakeFiles/cmTC_5d95e.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_5d95e.dir/build.make:86: recipe for target 'cmTC_5d95e' failed
+make[1]: *** [cmTC_5d95e] Error 1
+make[1]: Leaving directory '/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/dlib_build/cuda_test_build/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_5d95e/fast' failed
+make: *** [cmTC_5d95e/fast] Error 2
+
+File /media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/dlib_build/cuda_test_build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/dlib_build/cuda_test_build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d58e5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d58e5.dir/build.make CMakeFiles/cmTC_d58e5.dir/build
+make[1]: Entering directory '/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/dlib_build/cuda_test_build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d58e5.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -fPIC -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_d58e5.dir/CheckFunctionExists.c.o   -c /home/irip/Downloads/clion-2018.2/bin/cmake/linux/share/cmake-3.12/Modules/CheckFunctionExists.c
+Linking C executable cmTC_d58e5
+/home/irip/Downloads/clion-2018.2/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d58e5.dir/link.txt --verbose=1
+/usr/bin/cc -fPIC -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_d58e5.dir/CheckFunctionExists.c.o  -o cmTC_d58e5 -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_d58e5.dir/build.make:86: recipe for target 'cmTC_d58e5' failed
+make[1]: *** [cmTC_d58e5] Error 1
+make[1]: Leaving directory '/media/irip/850Evo/qzhlsq/transito-cv/cmake-build-debug/dlib_build/cuda_test_build/CMakeFiles/CMakeTmp'
+Makefile:121: recipe for target 'cmTC_d58e5/fast' failed
+make: *** [cmTC_d58e5/fast] Error 2
+
+
