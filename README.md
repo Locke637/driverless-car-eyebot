@@ -5,7 +5,7 @@ Carolo-Cup is an international autonomous driving competition held in German ann
 
 ## Preparation for building
 1. make sure you have installed cmake.
-2. download `dlib` from https://github.com/davisking/dlib/tree/7ef7ba84b32651ae920f32935baf1a15fb65e204, and put it in your root folder.
+2. download `dlib` from [dlib](https://github.com/davisking/dlib/tree/7ef7ba84b32651ae920f32935baf1a15fb65e204), and put it in your root folder.
 3. make sure you have installed opencv.
 
 
