@@ -13,11 +13,11 @@ Carolo-Cup is an international autonomous driving competition held in German ann
 1. stand in your root folder
 2. run `mkdir build`
 3. run `sh make`
-4. if you want to add new source file add it in `CMakeList`. And the source file should be included in `src` folder.
+4. if you want to add new source file add it in `CMakeLists`. And the source file should be included in `src` folder.
 5. the executing file will be stored in the `build` folder. 
 
 ## Traffic sign detection part
-This part can run on PCs. Building is same as above. 
+This part can run on PCs. Building is same as above. And if you just want to run the traffic sign detection part please comments `link_directories("/home/pi/eyebot/lib")` and `target_link_libraries(${name} libeyebot.a)` in CMakeLists. 
 ### Mark signs on traffic sign images
 1. Compile `imglab`:
 
