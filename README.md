@@ -16,6 +16,8 @@ Carolo-Cup is an international autonomous driving competition held in German ann
 4. if you want to add new source file add it in `CMakeList`. And the source file should be included in `src` folder.
 5. the executing file will be stored in the `build` folder. 
 
+## Traffic sign detection part
+This part can run on PCs. Building is same as above. 
 ### Mark signs on traffic sign images
 1. Compile `imglab`:
 
