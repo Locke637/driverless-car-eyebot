@@ -66,3 +66,4 @@ using cmake to compile;
 
 ## reference
 - [transito-cv](https://github.com/fabioperez/transito-cv.git)  
+- [eyebot](http://robotics.ee.uwa.edu.au/eyebot/)
