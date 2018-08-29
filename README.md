@@ -4,7 +4,7 @@
 Carolo-Cup is an international autonomous driving competition held in German annually. Student teams need to compete with each other about the new ideas and actual performance of their driverless model vehicles. The test platform built by Technische Universität Braunschweig contains different scenarios, so it can well simulate the real-life situation. In other words, although this is a model, the experience gained from solving problems in the model world can be very helpful to the realistic environment and this is the most fascinating part of this game.This project has done the lane detection, traffic sign detection and classification and communication between eyebots and base station.
 
 ## prepare for building
-1. make sure you have install cmake.
+1. make sure you have installed cmake.
 2. download `dlib` from https://github.com/davisking/dlib/tree/7ef7ba84b32651ae920f32935baf1a15fb65e204, and put it in your root folder.
 
 
