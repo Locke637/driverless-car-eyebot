@@ -63,4 +63,5 @@ traffic sign detection and classification;
 
 using cmake to compile;
 
-thanks to `https://github.com/fabioperez/transito-cv.git`
+## reference
+- [transito-cv](https://github.com/fabioperez/transito-cv.git)  
