@@ -34,7 +34,7 @@ dlib/tools/imglab/build/imglab images/pare/testing.xml
 
 ## Train the fHOG detector
 
-To train a fHOG detector, run `build/hog_detector`. For example, to run the detector on the `image/pare/` folder in the verbose mode, upsampling each image once, with a threshold filter with value `0.4`, execute the following command: 
+To train a fHOG detector, run `build/hog_detector`. For example, to run the detector on the `image/stop/` folder in the verbose mode,  execute the following command: 
 
 ```
 build/hog_detector -v images/stop/
