@@ -5,11 +5,10 @@ Carolo-Cup is an international autonomous driving competition held in German ann
 
 ## How to build
 1. stand in your root folder
-2. run this commend
-```
-sh make
-```
-3. if you want to add new source file add it in `CMakeList`. And the source file should be included in `src` folder.
+2. run `mkdir build`
+3. run `sh make`
+4. if you want to add new source file add it in `CMakeList`. And the source file should be included in `src` folder.
+5. the executing file will be stored in the `build` folder. 
 
 
 lane detection;
