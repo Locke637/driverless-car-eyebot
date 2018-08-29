@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='image08202083.bmp'>
+    <box top='68' left='64' width='40' height='40'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202062.bmp'>
+    <box top='76' left='90' width='34' height='32'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202021.bmp'>
+    <box top='80' left='96' width='31' height='30'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202067.bmp'>
+    <box top='67' left='71' width='42' height='42'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202041.bmp'>
+    <box top='84' left='110' width='26' height='25'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202037.bmp'>
+    <box top='86' left='100' width='23' height='22'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202059.bmp'>
+    <box top='80' left='78' width='29' height='30'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202087.bmp'>
+    <box top='62' left='35' width='49' height='48'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202010.bmp'>
+    <box top='62' left='84' width='49' height='48'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202057.bmp'>
+    <box top='81' left='107' width='27' height='27'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202027.bmp'>
+    <box top='66' left='193' width='43' height='43'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202047.bmp'>
+    <box top='75' left='115' width='33' height='34'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202038.bmp'>
+    <box top='87' left='100' width='23' height='22'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202079.bmp'>
+    <box top='75' left='74' width='34' height='33'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202011.bmp'>
+    <box top='37' left='45' width='76' height='74'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202013.bmp'>
+    <box top='60' left='165' width='55' height='52'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202012.bmp'>
+    <box top='57' left='92' width='54' height='52'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202051.bmp'>
+    <box top='66' left='89' width='44' height='44'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202006.bmp'>
+    <box top='57' left='49' width='55' height='53'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202040.bmp'>
+    <box top='84' left='107' width='25' height='25'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202082.bmp'>
+    <box top='69' left='65' width='39' height='38'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202014.bmp'>
+    <box top='74' left='164' width='35' height='35'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202026.bmp'>
+    <box top='39' left='54' width='71' height='71'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202073.bmp'>
+    <box top='42' left='13' width='71' height='70'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202080.bmp'>
+    <box top='72' left='79' width='36' height='36'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202069.bmp'>
+    <box top='60' left='50' width='50' height='51'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202043.bmp'>
+    <box top='81' left='112' width='27' height='27'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202063.bmp'>
+    <box top='74' left='85' width='38' height='35'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202044.bmp'>
+    <box top='80' left='116' width='27' height='28'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202017.bmp'>
+    <box top='59' left='203' width='46' height='47'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202076.bmp'>
+    <box top='78' left='90' width='29' height='30'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202025.bmp'>
+    <box top='9' left='20' width='104' height='103'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202066.bmp'>
+    <box top='70' left='85' width='38' height='38'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202009.bmp'>
+    <box top='78' left='93' width='31' height='31'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202058.bmp'>
+    <box top='81' left='97' width='27' height='27'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202002.bmp'>
+    <box top='81' left='101' width='30' height='28'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202060.bmp'>
+    <box top='77' left='79' width='30' height='32'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202042.bmp'>
+    <box top='82' left='113' width='26' height='26'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202085.bmp'>
+    <box top='63' left='33' width='47' height='46'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202072.bmp'>
+    <box top='51' left='55' width='59' height='60'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202053.bmp'>
+    <box top='57' left='77' width='54' height='53'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202078.bmp'>
+    <box top='76' left='90' width='32' height='31'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202084.bmp'>
+    <box top='65' left='45' width='41' height='43'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202064.bmp'>
+    <box top='72' left='101' width='38' height='38'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202052.bmp'>
+    <box top='64' left='86' width='45' height='45'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202032.bmp'>
+    <box top='41' left='248' width='68' height='67'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202048.bmp'>
+    <box top='73' left='114' width='35' height='35'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202016.bmp'>
+    <box top='36' left='176' width='69' height='73'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202024.bmp'>
+    <box top='38' left='29' width='72' height='73'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202007.bmp'>
+    <box top='65' left='38' width='47' height='45'>
+      <label>park</label>
+    </box>
+  </image>
+  <image file='image08202056.bmp'>
+    <box top='82' left='102' width='25' height='26'>
+      <label>park</label>
+    </box>
+  </image>
+</images>
+</dataset>

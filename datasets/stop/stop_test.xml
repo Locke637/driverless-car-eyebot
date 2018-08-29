@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='image028.bmp'>
+    <box top='81' left='24' width='76' height='69'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image116.bmp'>
+    <box top='81' left='122' width='62' height='64'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image257.bmp'>
+    <box top='112' left='300' width='19' height='19'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image022.bmp'>
+    <box top='86' left='28' width='67' height='60'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image100.bmp'>
+    <box top='108' left='211' width='27' height='29'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image472.bmp'>
+    <box top='93' left='53' width='55' height='52'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image102.bmp'>
+    <box top='103' left='180' width='35' height='35'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image689.bmp'>
+    <box top='109' left='94' width='34' height='33'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image289.bmp'>
+    <box top='109' left='115' width='32' height='32'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image493.bmp'>
+    <box top='80' left='20' width='70' height='69'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image299.bmp'>
+    <box top='93' left='90' width='52' height='52'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image698.bmp'>
+    <box top='99' left='68' width='44' height='45'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image507.bmp'>
+    <box top='113' left='128' width='27' height='28'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image097.bmp'>
+    <box top='105' left='257' width='26' height='28'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image062.bmp'>
+    <box top='84' left='33' width='72' height='64'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image528.bmp'>
+    <box top='98' left='233' width='40' height='37'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image067.bmp'>
+    <box top='83' left='32' width='70' height='65'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image094.bmp'>
+    <box top='110' left='221' width='28' height='24'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image412.bmp'>
+    <box top='112' left='178' width='20' height='25'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image191.bmp'>
+    <box top='77' left='24' width='66' height='69'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image549.bmp'>
+    <box top='95' left='207' width='44' height='42'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image395.bmp'>
+    <box top='90' left='35' width='61' height='57'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image423.bmp'>
+    <box top='104' left='191' width='28' height='32'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image405.bmp'>
+    <box top='114' left='181' width='18' height='22'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image492.bmp'>
+    <box top='80' left='22' width='69' height='68'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image691.bmp'>
+    <box top='110' left='92' width='38' height='37'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image203.bmp'>
+    <box top='106' left='232' width='25' height='29'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image103.bmp'>
+    <box top='104' left='181' width='34' height='33'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image390.bmp'>
+    <box top='104' left='79' width='40' height='40'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image702.bmp'>
+    <box top='106' left='116' width='31' height='33'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image119.bmp'>
+    <box top='79' left='90' width='62' height='67'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image730.bmp'>
+    <box top='107' left='15' width='42' height='39'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image454.bmp'>
+    <box top='52' left='64' width='79' height='93'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image431.bmp'>
+    <box top='95' left='195' width='36' height='41'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image356.bmp'>
+    <box top='81' left='83' width='63' height='65'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image430.bmp'>
+    <box top='97' left='189' width='35' height='40'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image376.bmp'>
+    <box top='118' left='126' width='23' height='23'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image629.bmp'>
+    <box top='105' left='161' width='36' height='34'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image016.bmp'>
+    <box top='95' left='9' width='55' height='53'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image428.bmp'>
+    <box top='99' left='190' width='32' height='37'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image365.bmp'>
+    <box top='122' left='136' width='17' height='17'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image018.bmp'>
+    <box top='95' left='21' width='57' height='53'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image231.bmp'>
+    <box top='64' left='116' width='81' height='81'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image110.bmp'>
+    <box top='100' left='210' width='35' height='37'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image623.bmp'>
+    <box top='109' left='217' width='29' height='26'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image710.bmp'>
+    <box top='101' left='3' width='47' height='44'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image508.bmp'>
+    <box top='112' left='125' width='30' height='29'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image013.bmp'>
+    <box top='96' left='13' width='55' height='52'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image151.bmp'>
+    <box top='93' left='42' width='54' height='53'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image727.bmp'>
+    <box top='112' left='17' width='36' height='33'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image105.bmp'>
+    <box top='103' left='182' width='31' height='35'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image083.bmp'>
+    <box top='117' left='190' width='17' height='19'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image692.bmp'>
+    <box top='110' left='92' width='37' height='37'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image386.bmp'>
+    <box top='112' left='110' width='33' height='31'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image303.bmp'>
+    <box top='87' left='49' width='62' height='61'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image513.bmp'>
+    <box top='103' left='101' width='41' height='39'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image697.bmp'>
+    <box top='102' left='72' width='41' height='41'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image432.bmp'>
+    <box top='95' left='195' width='35' height='41'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image079.bmp'>
+    <box top='51' left='1' width='99' height='107'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image708.bmp'>
+    <box top='105' left='56' width='38' height='37'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image394.bmp'>
+    <box top='90' left='36' width='59' height='57'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image859.bmp'>
+    <box top='55' left='2' width='102' height='98'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image586.bmp'>
+    <box top='84' left='120' width='53' height='51'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image546.bmp'>
+    <box top='99' left='268' width='38' height='34'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image461.bmp'>
+    <box top='111' left='103' width='31' height='32'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image469.bmp'>
+    <box top='106' left='87' width='39' height='38'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image674.bmp'>
+    <box top='121' left='118' width='19' height='18'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image088.bmp'>
+    <box top='117' left='187' width='19' height='19'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image512.bmp'>
+    <box top='104' left='112' width='38' height='37'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='train/image434.bmp'>
+    <box top='95' left='195' width='37' height='41'>
+      <label>stop</label>
+    </box>
+  </image>
+</images>
+</dataset>

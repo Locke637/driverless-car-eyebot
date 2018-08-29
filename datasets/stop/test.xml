@@ -1,0 +1,429 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='image012.bmp'>
+    <box top='91' left='9' width='64' height='59'>
+      <label>stop</label>
+    </box>
+  </image>
+  <image file='image013.bmp'>
+  </image>
+  <image file='image014.bmp'>
+  </image>
+  <image file='image015.bmp'>
+  </image>
+  <image file='image016.bmp'>
+  </image>
+  <image file='image018.bmp'>
+  </image>
+  <image file='image019.bmp'>
+  </image>
+  <image file='image020.bmp'>
+  </image>
+  <image file='image021.bmp'>
+  </image>
+  <image file='image022.bmp'>
+  </image>
+  <image file='image023.bmp'>
+  </image>
+  <image file='image024.bmp'>
+  </image>
+  <image file='image026.bmp'>
+  </image>
+  <image file='image027.bmp'>
+  </image>
+  <image file='image028.bmp'>
+  </image>
+  <image file='image029.bmp'>
+  </image>
+  <image file='image030.bmp'>
+  </image>
+  <image file='image062.bmp'>
+  </image>
+  <image file='image063.bmp'>
+  </image>
+  <image file='image064.bmp'>
+  </image>
+  <image file='image065.bmp'>
+  </image>
+  <image file='image066.bmp'>
+  </image>
+  <image file='image067.bmp'>
+  </image>
+  <image file='image068.bmp'>
+  </image>
+  <image file='image070.bmp'>
+  </image>
+  <image file='image071.bmp'>
+  </image>
+  <image file='image072.bmp'>
+  </image>
+  <image file='image073.bmp'>
+  </image>
+  <image file='image074.bmp'>
+  </image>
+  <image file='image076.bmp'>
+  </image>
+  <image file='image077.bmp'>
+  </image>
+  <image file='image078.bmp'>
+  </image>
+  <image file='image079.bmp'>
+  </image>
+  <image file='image081.bmp'>
+  </image>
+  <image file='image082.bmp'>
+  </image>
+  <image file='image083.bmp'>
+  </image>
+  <image file='image085.bmp'>
+  </image>
+  <image file='image086.bmp'>
+  </image>
+  <image file='image087.bmp'>
+  </image>
+  <image file='image088.bmp'>
+  </image>
+  <image file='image089.bmp'>
+  </image>
+  <image file='image091.bmp'>
+  </image>
+  <image file='image092.bmp'>
+  </image>
+  <image file='image093.bmp'>
+  </image>
+  <image file='image094.bmp'>
+  </image>
+  <image file='image095.bmp'>
+  </image>
+  <image file='image096.bmp'>
+  </image>
+  <image file='image097.bmp'>
+  </image>
+  <image file='image099.bmp'>
+  </image>
+  <image file='image100.bmp'>
+  </image>
+  <image file='image101.bmp'>
+  </image>
+  <image file='image102.bmp'>
+  </image>
+  <image file='image103.bmp'>
+  </image>
+  <image file='image105.bmp'>
+  </image>
+  <image file='image106.bmp'>
+  </image>
+  <image file='image107.bmp'>
+  </image>
+  <image file='image108.bmp'>
+  </image>
+  <image file='image109.bmp'>
+  </image>
+  <image file='image110.bmp'>
+  </image>
+  <image file='image111.bmp'>
+  </image>
+  <image file='image113.bmp'>
+  </image>
+  <image file='image114.bmp'>
+  </image>
+  <image file='image115.bmp'>
+  </image>
+  <image file='image116.bmp'>
+  </image>
+  <image file='image117.bmp'>
+  </image>
+  <image file='image119.bmp'>
+  </image>
+  <image file='image120.bmp'>
+  </image>
+  <image file='image121.bmp'>
+  </image>
+  <image file='image122.bmp'>
+  </image>
+  <image file='image123.bmp'>
+  </image>
+  <image file='image124.bmp'>
+  </image>
+  <image file='image125.bmp'>
+  </image>
+  <image file='image127.bmp'>
+  </image>
+  <image file='image128.bmp'>
+  </image>
+  <image file='image129.bmp'>
+  </image>
+  <image file='image130.bmp'>
+  </image>
+  <image file='image131.bmp'>
+  </image>
+  <image file='image133.bmp'>
+  </image>
+  <image file='image134.bmp'>
+  </image>
+  <image file='image135.bmp'>
+  </image>
+  <image file='image136.bmp'>
+  </image>
+  <image file='image137.bmp'>
+  </image>
+  <image file='image138.bmp'>
+  </image>
+  <image file='image139.bmp'>
+  </image>
+  <image file='image141.bmp'>
+  </image>
+  <image file='image142.bmp'>
+  </image>
+  <image file='image143.bmp'>
+  </image>
+  <image file='image144.bmp'>
+  </image>
+  <image file='image145.bmp'>
+  </image>
+  <image file='image147.bmp'>
+  </image>
+  <image file='image148.bmp'>
+  </image>
+  <image file='image149.bmp'>
+  </image>
+  <image file='image150.bmp'>
+  </image>
+  <image file='image151.bmp'>
+  </image>
+  <image file='image152.bmp'>
+  </image>
+  <image file='image153.bmp'>
+  </image>
+  <image file='image155.bmp'>
+  </image>
+  <image file='image156.bmp'>
+  </image>
+  <image file='image157.bmp'>
+  </image>
+  <image file='image158.bmp'>
+  </image>
+  <image file='image159.bmp'>
+  </image>
+  <image file='image167.bmp'>
+  </image>
+  <image file='image168.bmp'>
+  </image>
+  <image file='image169.bmp'>
+  </image>
+  <image file='image170.bmp'>
+  </image>
+  <image file='image171.bmp'>
+  </image>
+  <image file='image172.bmp'>
+  </image>
+  <image file='image173.bmp'>
+  </image>
+  <image file='image175.bmp'>
+  </image>
+  <image file='image176.bmp'>
+  </image>
+  <image file='image177.bmp'>
+  </image>
+  <image file='image178.bmp'>
+  </image>
+  <image file='image179.bmp'>
+  </image>
+  <image file='image181.bmp'>
+  </image>
+  <image file='image182.bmp'>
+  </image>
+  <image file='image183.bmp'>
+  </image>
+  <image file='image184.bmp'>
+  </image>
+  <image file='image185.bmp'>
+  </image>
+  <image file='image186.bmp'>
+  </image>
+  <image file='image187.bmp'>
+  </image>
+  <image file='image189.bmp'>
+  </image>
+  <image file='image190.bmp'>
+  </image>
+  <image file='image191.bmp'>
+  </image>
+  <image file='image192.bmp'>
+  </image>
+  <image file='image193.bmp'>
+  </image>
+  <image file='image195.bmp'>
+  </image>
+  <image file='image196.bmp'>
+  </image>
+  <image file='image197.bmp'>
+  </image>
+  <image file='image198.bmp'>
+  </image>
+  <image file='image199.bmp'>
+  </image>
+  <image file='image200.bmp'>
+  </image>
+  <image file='image201.bmp'>
+  </image>
+  <image file='image203.bmp'>
+  </image>
+  <image file='image204.bmp'>
+  </image>
+  <image file='image205.bmp'>
+  </image>
+  <image file='image206.bmp'>
+  </image>
+  <image file='image207.bmp'>
+  </image>
+  <image file='image209.bmp'>
+  </image>
+  <image file='image210.bmp'>
+  </image>
+  <image file='image229.bmp'>
+  </image>
+  <image file='image230.bmp'>
+  </image>
+  <image file='image231.bmp'>
+  </image>
+  <image file='image232.bmp'>
+  </image>
+  <image file='image233.bmp'>
+  </image>
+  <image file='image235.bmp'>
+  </image>
+  <image file='image236.bmp'>
+  </image>
+  <image file='image237.bmp'>
+  </image>
+  <image file='image238.bmp'>
+  </image>
+  <image file='image239.bmp'>
+  </image>
+  <image file='image241.bmp'>
+  </image>
+  <image file='image242.bmp'>
+  </image>
+  <image file='image243.bmp'>
+  </image>
+  <image file='image244.bmp'>
+  </image>
+  <image file='image245.bmp'>
+  </image>
+  <image file='image246.bmp'>
+  </image>
+  <image file='image257.bmp'>
+  </image>
+  <image file='image259.bmp'>
+  </image>
+  <image file='image260.bmp'>
+  </image>
+  <image file='image261.bmp'>
+  </image>
+  <image file='image262.bmp'>
+  </image>
+  <image file='image263.bmp'>
+  </image>
+  <image file='image265.bmp'>
+  </image>
+  <image file='image266.bmp'>
+  </image>
+  <image file='image267.bmp'>
+  </image>
+  <image file='image268.bmp'>
+  </image>
+  <image file='image269.bmp'>
+  </image>
+  <image file='image270.bmp'>
+  </image>
+  <image file='image271.bmp'>
+  </image>
+  <image file='image273.bmp'>
+  </image>
+  <image file='image274.bmp'>
+  </image>
+  <image file='image275.bmp'>
+  </image>
+  <image file='image276.bmp'>
+  </image>
+  <image file='image277.bmp'>
+  </image>
+  <image file='image279.bmp'>
+  </image>
+  <image file='image280.bmp'>
+  </image>
+  <image file='image281.bmp'>
+  </image>
+  <image file='image282.bmp'>
+  </image>
+  <image file='image283.bmp'>
+  </image>
+  <image file='image284.bmp'>
+  </image>
+  <image file='image285.bmp'>
+  </image>
+  <image file='image287.bmp'>
+  </image>
+  <image file='image288.bmp'>
+  </image>
+  <image file='image289.bmp'>
+  </image>
+  <image file='image290.bmp'>
+  </image>
+  <image file='image291.bmp'>
+  </image>
+  <image file='image293.bmp'>
+  </image>
+  <image file='image294.bmp'>
+  </image>
+  <image file='image295.bmp'>
+  </image>
+  <image file='image296.bmp'>
+  </image>
+  <image file='image297.bmp'>
+  </image>
+  <image file='image298.bmp'>
+  </image>
+  <image file='image299.bmp'>
+  </image>
+  <image file='image301.bmp'>
+  </image>
+  <image file='image302.bmp'>
+  </image>
+  <image file='image303.bmp'>
+  </image>
+  <image file='image304.bmp'>
+  </image>
+  <image file='image305.bmp'>
+  </image>
+  <image file='image342.bmp'>
+  </image>
+  <image file='image343.bmp'>
+  </image>
+  <image file='image344.bmp'>
+  </image>
+  <image file='image345.bmp'>
+  </image>
+  <image file='image346.bmp'>
+  </image>
+  <image file='image347.bmp'>
+  </image>
+  <image file='image348.bmp'>
+  </image>
+  <image file='image350.bmp'>
+  </image>
+  <image file='image351.bmp'>
+  </image>
+  <image file='image352.bmp'>
+  </image>
+  <image file='image353.bmp'>
+  </image>
+  <image file='image354.bmp'>
+  </image>
+</images>
+</dataset>

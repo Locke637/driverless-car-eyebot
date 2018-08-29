@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='image08204191.bmp'>
+    <box top='56' left='32' width='64' height='62'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204212.bmp'>
+    <box top='61' left='24' width='58' height='54'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204207.bmp'>
+    <box top='76' left='77' width='42' height='39'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204189.bmp'>
+    <box top='67' left='60' width='50' height='48'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204214.bmp'>
+    <box top='72' left='245' width='42' height='38'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204205.bmp'>
+    <box top='79' left='106' width='37' height='36'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204196.bmp'>
+    <box top='87' left='98' width='24' height='23'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204188.bmp'>
+    <box top='72' left='80' width='44' height='42'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204201.bmp'>
+    <box top='84' left='86' width='30' height='28'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204199.bmp'>
+    <box top='86' left='94' width='29' height='26'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204198.bmp'>
+    <box top='85' left='91' width='27' height='27'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204213.bmp'>
+    <box top='56' left='18' width='63' height='59'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204216.bmp'>
+    <box top='70' left='230' width='43' height='41'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204220.bmp'>
+    <box top='69' left='190' width='47' height='43'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204211.bmp'>
+    <box top='65' left='29' width='56' height='52'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204228.bmp'>
+    <box top='43' left='10' width='74' height='72'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204215.bmp'>
+    <box top='71' left='236' width='43' height='41'>
+      <label>triangle</label>
+    </box>
+  </image>
+</images>
+</dataset>

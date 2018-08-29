@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='image08204190.bmp'>
+    <box top='62' left='35' width='57' height='55'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204203.bmp'>
+    <box top='81' left='110' width='31' height='30'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204187.bmp'>
+    <box top='77' left='71' width='42' height='41'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204224.bmp'>
+    <box top='61' left='112' width='54' height='51'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204227.bmp'>
+    <box top='49' left='15' width='73' height='65'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204204.bmp'>
+    <box top='81' left='113' width='35' height='32'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204229.bmp'>
+    <box top='41' left='0' width='76' height='73'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204261.bmp'>
+    <box top='64' left='158' width='51' height='50'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204186.bmp'>
+    <box top='78' left='72' width='35' height='33'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204209.bmp'>
+    <box top='70' left='55' width='49' height='46'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204218.bmp'>
+    <box top='68' left='208' width='44' height='43'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204206.bmp'>
+    <box top='77' left='92' width='38' height='37'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204210.bmp'>
+    <box top='68' left='43' width='51' height='48'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204208.bmp'>
+    <box top='73' left='63' width='45' height='43'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204202.bmp'>
+    <box top='84' left='93' width='31' height='29'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204221.bmp'>
+    <box top='64' left='176' width='51' height='48'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204195.bmp'>
+    <box top='88' left='103' width='24' height='21'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204226.bmp'>
+    <box top='50' left='26' width='69' height='64'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204219.bmp'>
+    <box top='67' left='195' width='48' height='46'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204217.bmp'>
+    <box top='69' left='219' width='44' height='42'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204197.bmp'>
+    <box top='86' left='91' width='27' height='26'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204200.bmp'>
+    <box top='84' left='97' width='29' height='27'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204225.bmp'>
+    <box top='59' left='77' width='58' height='55'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204222.bmp'>
+    <box top='65' left='158' width='51' height='48'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204223.bmp'>
+    <box top='64' left='138' width='51' height='49'>
+      <label>triangle</label>
+    </box>
+  </image>
+  <image file='image08204192.bmp'>
+    <box top='49' left='15' width='70' height='66'>
+      <label>triangle</label>
+    </box>
+  </image>
+</images>
+</dataset>

@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='image08203172.bmp'>
+    <box top='58' left='183' width='52' height='50'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203136.bmp'>
+    <box top='83' left='199' width='28' height='28'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203176.bmp'>
+    <box top='41' left='199' width='72' height='69'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203138.bmp'>
+    <box top='80' left='198' width='30' height='31'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203106.bmp'>
+    <box top='61' left='48' width='52' height='50'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203143.bmp'>
+    <box top='77' left='197' width='33' height='34'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203128.bmp'>
+    <box top='67' left='67' width='41' height='42'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203146.bmp'>
+    <box top='75' left='199' width='37' height='36'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203109.bmp'>
+    <box top='52' left='35' width='62' height='60'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203088.bmp'>
+    <box top='77' left='201' width='32' height='32'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203119.bmp'>
+    <box top='83' left='85' width='25' height='26'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203144.bmp'>
+    <box top='77' left='197' width='34' height='33'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203102.bmp'>
+    <box top='66' left='71' width='44' height='45'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203164.bmp'>
+    <box top='78' left='164' width='32' height='33'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203129.bmp'>
+    <box top='61' left='59' width='48' height='48'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203170.bmp'>
+    <box top='65' left='187' width='44' height='44'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203092.bmp'>
+    <box top='74' left='162' width='36' height='36'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203126.bmp'>
+    <box top='74' left='73' width='36' height='36'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203093.bmp'>
+    <box top='73' left='153' width='36' height='37'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203094.bmp'>
+    <box top='73' left='141' width='35' height='37'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203115.bmp'>
+    <box top='84' left='99' width='26' height='25'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203168.bmp'>
+    <box top='70' left='180' width='39' height='40'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203139.bmp'>
+    <box top='80' left='195' width='31' height='31'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203104.bmp'>
+    <box top='63' left='60' width='48' height='48'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203153.bmp'>
+    <box top='59' left='227' width='55' height='53'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203140.bmp'>
+    <box top='80' left='193' width='30' height='30'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203120.bmp'>
+    <box top='81' left='105' width='27' height='27'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203169.bmp'>
+    <box top='69' left='180' width='40' height='40'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203100.bmp'>
+    <box top='69' left='82' width='43' height='42'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203101.bmp'>
+    <box top='68' left='77' width='43' height='43'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203133.bmp'>
+    <box top='48' left='11' width='64' height='66'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203173.bmp'>
+    <box top='55' left='184' width='55' height='53'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203141.bmp'>
+    <box top='79' left='198' width='30' height='31'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203145.bmp'>
+    <box top='75' left='194' width='36' height='36'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203091.bmp'>
+    <box top='74' left='169' width='35' height='36'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203154.bmp'>
+    <box top='55' left='235' width='56' height='56'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203105.bmp'>
+    <box top='62' left='58' width='49' height='49'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203096.bmp'>
+    <box top='73' left='114' width='38' height='37'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203152.bmp'>
+    <box top='61' left='226' width='51' height='50'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203165.bmp'>
+    <box top='78' left='169' width='34' height='33'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203125.bmp'>
+    <box top='75' left='55' width='35' height='35'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203089.bmp'>
+    <box top='77' left='188' width='33' height='32'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203150.bmp'>
+    <box top='66' left='216' width='45' height='46'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203108.bmp'>
+    <box top='57' left='44' width='57' height='55'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203095.bmp'>
+    <box top='72' left='121' width='37' height='39'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203118.bmp'>
+    <box top='83' left='76' width='26' height='26'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203151.bmp'>
+    <box top='64' left='221' width='48' height='48'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203111.bmp'>
+  </image>
+  <image file='image08203097.bmp'>
+    <box top='71' left='105' width='38' height='40'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203167.bmp'>
+    <box top='72' left='179' width='40' height='40'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203166.bmp'>
+    <box top='77' left='181' width='36' height='36'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203124.bmp'>
+    <box top='77' left='72' width='33' height='33'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203098.bmp'>
+    <box top='70' left='99' width='39' height='41'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203103.bmp'>
+    <box top='65' left='65' width='47' height='47'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203099.bmp'>
+    <box top='70' left='93' width='41' height='41'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203090.bmp'>
+    <box top='74' left='176' width='35' height='36'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203134.bmp'>
+    <box top='44' left='15' width='68' height='70'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203155.bmp'>
+    <box top='51' left='240' width='59' height='60'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203121.bmp'>
+    <box top='81' left='116' width='27' height='27'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203175.bmp'>
+    <box top='46' left='196' width='68' height='65'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203110.bmp'>
+    <box top='47' left='17' width='67' height='66'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203149.bmp'>
+    <box top='68' left='211' width='44' height='43'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203174.bmp'>
+    <box top='51' left='194' width='60' height='58'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203147.bmp'>
+    <box top='72' left='204' width='40' height='39'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203137.bmp'>
+    <box top='82' left='198' width='27' height='29'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203122.bmp'>
+    <box top='79' left='98' width='30' height='29'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203171.bmp'>
+    <box top='62' left='186' width='48' height='46'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203112.bmp'>
+    <box top='39' left='0' width='71' height='75'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203131.bmp'>
+    <box top='59' left='38' width='56' height='53'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203116.bmp'>
+    <box top='84' left='100' width='25' height='26'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203107.bmp'>
+    <box top='58' left='44' width='53' height='54'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203156.bmp'>
+    <box top='43' left='247' width='64' height='65'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203163.bmp'>
+    <box top='79' left='171' width='30' height='32'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203142.bmp'>
+    <box top='79' left='197' width='31' height='31'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203148.bmp'>
+    <box top='71' left='207' width='41' height='40'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203123.bmp'>
+    <box top='79' left='92' width='30' height='30'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+</images>
+</dataset>

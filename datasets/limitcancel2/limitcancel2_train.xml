@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='image068.bmp'>
+    <box top='65' left='129' width='42' height='42'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image080.bmp'>
+    <box top='57' left='114' width='53' height='53'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image097.bmp'>
+    <box top='28' left='122' width='82' height='82'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image111.bmp'>
+    <box top='66' left='237' width='44' height='44'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image107.bmp'>
+    <box top='67' left='229' width='41' height='42'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image075.bmp'>
+    <box top='60' left='114' width='49' height='50'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image071.bmp'>
+    <box top='63' left='124' width='44' height='46'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image130.bmp'>
+    <box top='44' left='248' width='65' height='64'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image067.bmp'>
+    <box top='65' left='130' width='41' height='42'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image136.bmp'>
+    <box top='67' left='13' width='40' height='43'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image081.bmp'>
+    <box top='55' left='118' width='55' height='56'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image096.bmp'>
+    <box top='30' left='109' width='82' height='81'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image140.bmp'>
+    <box top='64' left='3' width='46' height='48'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image116.bmp'>
+    <box top='63' left='240' width='48' height='47'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image072.bmp'>
+    <box top='62' left='125' width='46' height='47'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image120.bmp'>
+    <box top='59' left='206' width='47' height='51'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image099.bmp'>
+    <box top='22' left='116' width='89' height='88'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image082.bmp'>
+    <box top='55' left='113' width='57' height='56'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image123.bmp'>
+    <box top='56' left='240' width='52' height='54'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image076.bmp'>
+    <box top='60' left='114' width='50' height='49'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image103.bmp'>
+    <box top='11' left='104' width='103' height='100'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image121.bmp'>
+    <box top='58' left='224' width='50' height='52'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image101.bmp'>
+    <box top='18' left='116' width='93' height='92'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image126.bmp'>
+    <box top='53' left='190' width='57' height='57'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image115.bmp'>
+    <box top='63' left='242' width='45' height='46'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image139.bmp'>
+    <box top='65' left='7' width='43' height='47'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image138.bmp'>
+    <box top='65' left='4' width='44' height='47'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image135.bmp'>
+    <box top='68' left='13' width='41' height='42'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image070.bmp'>
+    <box top='64' left='125' width='44' height='44'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image124.bmp'>
+    <box top='55' left='234' width='53' height='54'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image141.bmp'>
+    <box top='63' left='2' width='47' height='48'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image114.bmp'>
+    <box top='64' left='236' width='45' height='45'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image094.bmp'>
+    <box top='34' left='117' width='77' height='76'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image118.bmp'>
+    <box top='62' left='210' width='45' height='47'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image079.bmp'>
+    <box top='58' left='115' width='53' height='52'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image106.bmp'>
+    <box top='69' left='220' width='41' height='40'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image078.bmp'>
+    <box top='58' left='116' width='51' height='52'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image108.bmp'>
+    <box top='66' left='230' width='41' height='43'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image093.bmp'>
+    <box top='36' left='119' width='75' height='75'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image088.bmp'>
+    <box top='44' left='118' width='67' height='65'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image083.bmp'>
+    <box top='54' left='114' width='57' height='56'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image109.bmp'>
+    <box top='65' left='230' width='44' height='44'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image073.bmp'>
+    <box top='62' left='126' width='46' height='47'>
+      <label>cancel</label>
+    </box>
+  </image>
+</images>
+</dataset>

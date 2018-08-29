@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='image08203151.bmp'>
+    <box top='64' left='221' width='48' height='48'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203111.bmp'>
+  </image>
+  <image file='image08203097.bmp'>
+    <box top='71' left='105' width='38' height='40'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203167.bmp'>
+    <box top='72' left='179' width='40' height='40'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203166.bmp'>
+    <box top='77' left='181' width='36' height='36'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203124.bmp'>
+    <box top='77' left='72' width='33' height='33'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203098.bmp'>
+    <box top='70' left='99' width='39' height='41'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203103.bmp'>
+    <box top='65' left='65' width='47' height='47'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203099.bmp'>
+    <box top='70' left='93' width='41' height='41'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203090.bmp'>
+    <box top='74' left='176' width='35' height='36'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203134.bmp'>
+    <box top='44' left='15' width='68' height='70'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203155.bmp'>
+    <box top='51' left='240' width='59' height='60'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203121.bmp'>
+    <box top='81' left='116' width='27' height='27'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203175.bmp'>
+    <box top='46' left='196' width='68' height='65'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203110.bmp'>
+    <box top='47' left='17' width='67' height='66'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203149.bmp'>
+    <box top='68' left='211' width='44' height='43'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203174.bmp'>
+    <box top='51' left='194' width='60' height='58'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203147.bmp'>
+    <box top='72' left='204' width='40' height='39'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203137.bmp'>
+    <box top='82' left='198' width='27' height='29'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203122.bmp'>
+    <box top='79' left='98' width='30' height='29'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203171.bmp'>
+    <box top='62' left='186' width='48' height='46'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203112.bmp'>
+    <box top='39' left='0' width='71' height='75'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203131.bmp'>
+    <box top='59' left='38' width='56' height='53'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203116.bmp'>
+    <box top='84' left='100' width='25' height='26'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203107.bmp'>
+    <box top='58' left='44' width='53' height='54'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203156.bmp'>
+    <box top='43' left='247' width='64' height='65'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203163.bmp'>
+    <box top='79' left='171' width='30' height='32'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203142.bmp'>
+    <box top='79' left='197' width='31' height='31'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203148.bmp'>
+    <box top='71' left='207' width='41' height='40'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+  <image file='image08203123.bmp'>
+    <box top='79' left='92' width='30' height='30'>
+      <label>pedestrian</label>
+    </box>
+  </image>
+</images>
+</dataset>

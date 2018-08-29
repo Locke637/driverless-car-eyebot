@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='image08200065.bmp'>
+    <box top='49' left='255' width='58' height='60'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200004.bmp'>
+    <box top='62' left='107' width='47' height='49'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200036.bmp'>
+    <box top='76' left='136' width='34' height='37'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200072.bmp'>
+    <box top='28' left='23' width='84' height='82'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200075.bmp'>
+    <box top='56' left='8' width='53' height='54'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200002.bmp'>
+    <box top='63' left='129' width='44' height='44'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200039.bmp'>
+    <box top='49' left='141' width='65' height='62'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200021.bmp'>
+    <box top='73' left='72' width='39' height='39'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200064.bmp'>
+    <box top='54' left='258' width='52' height='55'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200050.bmp'>
+    <box top='57' left='211' width='53' height='51'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200005.bmp'>
+    <box top='79' left='141' width='29' height='29'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200020.bmp'>
+    <box top='69' left='150' width='44' height='43'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200052.bmp'>
+    <box top='48' left='133' width='60' height='60'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200037.bmp'>
+    <box top='68' left='95' width='45' height='42'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200007.bmp'>
+    <box top='51' left='132' width='59' height='60'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200061.bmp'>
+    <box top='72' left='134' width='38' height='38'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200066.bmp'>
+    <box top='78' left='91' width='32' height='31'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200073.bmp'>
+    <box top='64' left='32' width='47' height='47'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200016.bmp'>
+    <box top='39' left='194' width='71' height='72'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200049.bmp'>
+    <box top='16' left='166' width='93' height='94'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200068.bmp'>
+    <box top='62' left='73' width='49' height='49'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200027.bmp'>
+    <box top='78' left='54' width='33' height='33'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200055.bmp'>
+    <box top='63' left='264' width='46' height='47'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200077.bmp'>
+    <box top='62' left='61' width='48' height='47'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200011.bmp'>
+    <box top='74' left='211' width='33' height='34'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200028.bmp'>
+    <box top='73' left='198' width='38' height='37'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200047.bmp'>
+    <box top='59' left='93' width='49' height='52'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200041.bmp'>
+    <box top='65' left='213' width='48' height='44'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200060.bmp'>
+    <box top='63' left='131' width='48' height='47'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200015.bmp'>
+    <box top='62' left='170' width='44' height='47'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200076.bmp'>
+    <box top='77' left='58' width='38' height='37'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200017.bmp'>
+    <box top='29' left='203' width='75' height='80'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200010.bmp'>
+    <box top='74' left='158' width='35' height='35'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200030.bmp'>
+    <box top='44' left='229' width='63' height='66'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200031.bmp'>
+    <box top='31' left='242' width='73' height='80'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200044.bmp'>
+    <box top='37' left='243' width='70' height='72'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200046.bmp'>
+    <box top='65' left='104' width='46' height='45'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200035.bmp'>
+    <box top='72' left='150' width='39' height='40'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200034.bmp'>
+    <box top='63' left='152' width='46' height='46'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200042.bmp'>
+    <box top='55' left='226' width='53' height='53'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200048.bmp'>
+    <box top='25' left='130' width='83' height='84'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200045.bmp'>
+    <box top='55' left='237' width='50' height='51'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200009.bmp'>
+    <box top='52' left='75' width='56' height='59'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image08200054.bmp'>
+    <box top='31' left='199' width='71' height='79'>
+      <label>cancel</label>
+    </box>
+  </image>
+</images>
+</dataset>

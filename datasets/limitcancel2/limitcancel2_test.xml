@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='image090.bmp'>
+    <box top='42' left='120' width='69' height='69'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image077.bmp'>
+    <box top='59' left='116' width='51' height='52'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image074.bmp'>
+    <box top='61' left='121' width='49' height='48'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image100.bmp'>
+    <box top='21' left='116' width='92' height='90'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image085.bmp'>
+    <box top='50' left='120' width='61' height='60'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image117.bmp'>
+    <box top='63' left='217' width='45' height='47'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image119.bmp'>
+    <box top='62' left='195' width='46' height='48'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image064.bmp'>
+    <box top='67' left='127' width='39' height='40'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image104.bmp'>
+    <box top='6' left='99' width='104' height='105'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image098.bmp'>
+    <box top='26' left='122' width='85' height='84'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image066.bmp'>
+    <box top='68' left='132' width='40' height='40'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image134.bmp'>
+    <box top='69' left='22' width='41' height='42'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image069.bmp'>
+    <box top='65' left='127' width='42' height='43'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image127.bmp'>
+    <box top='51' left='188' width='56' height='59'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image091.bmp'>
+    <box top='39' left='116' width='72' height='72'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image084.bmp'>
+    <box top='51' left='120' width='59' height='59'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image065.bmp'>
+    <box top='68' left='126' width='40' height='39'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image110.bmp'>
+    <box top='65' left='234' width='44' height='44'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image137.bmp'>
+    <box top='67' left='8' width='42' height='44'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image105.bmp'>
+    <box top='68' left='225' width='39' height='40'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image089.bmp'>
+    <box top='43' left='114' width='69' height='68'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image087.bmp'>
+    <box top='46' left='120' width='65' height='65'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image113.bmp'>
+    <box top='64' left='237' width='45' height='46'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image095.bmp'>
+    <box top='31' left='115' width='78' height='79'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image112.bmp'>
+    <box top='64' left='235' width='43' height='46'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image086.bmp'>
+    <box top='49' left='121' width='63' height='62'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image122.bmp'>
+    <box top='56' left='234' width='51' height='53'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image092.bmp'>
+    <box top='37' left='116' width='76' height='74'>
+      <label>cancel</label>
+    </box>
+  </image>
+  <image file='image102.bmp'>
+    <box top='15' left='116' width='95' height='95'>
+      <label>cancel</label>
+    </box>
+  </image>
+</images>
+</dataset>

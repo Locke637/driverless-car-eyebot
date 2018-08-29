@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='image034.bmp'>
+    <box top='45' left='216' width='58' height='60'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image050.bmp'>
+    <box top='59' left='37' width='46' height='47'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image033.bmp'>
+    <box top='46' left='216' width='56' height='59'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image014.bmp'>
+    <box top='20' left='110' width='85' height='85'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image051.bmp'>
+    <box top='59' left='36' width='47' height='48'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image028.bmp'>
+    <box top='53' left='209' width='50' height='52'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image021.bmp'>
+    <box top='30' left='230' width='70' height='72'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image056.bmp'>
+    <box top='54' left='27' width='53' height='52'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image025.bmp'>
+    <box top='24' left='235' width='76' height='81'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image026.bmp'>
+    <box top='23' left='242' width='76' height='80'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image029.bmp'>
+    <box top='53' left='209' width='51' height='52'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image058.bmp'>
+    <box top='50' left='11' width='55' height='56'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image003.bmp'>
+    <box top='40' left='120' width='63' height='64'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image041.bmp'>
+    <box top='33' left='231' width='68' height='70'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image004.bmp'>
+    <box top='39' left='121' width='66' height='66'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image045.bmp'>
+    <box top='63' left='44' width='44' height='43'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image011.bmp'>
+    <box top='26' left='113' width='78' height='79'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image007.bmp'>
+    <box top='33' left='116' width='72' height='73'>
+      <label>limit</label>
+    </box>
+  </image>
+</images>
+</dataset>

@@ -1,0 +1,728 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='image002.bmp'>
+    <box top='42' left='123' width='63' height='62'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image003.bmp'>
+    <box top='40' left='120' width='63' height='64'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image004.bmp'>
+    <box top='39' left='121' width='66' height='66'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image005.bmp'>
+    <box top='37' left='120' width='68' height='68'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image006.bmp'>
+    <box top='35' left='120' width='70' height='70'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image007.bmp'>
+    <box top='33' left='116' width='72' height='73'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image008.bmp'>
+    <box top='33' left='114' width='72' height='73'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image009.bmp'>
+    <box top='32' left='115' width='72' height='73'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image010.bmp'>
+    <box top='30' left='112' width='75' height='75'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image011.bmp'>
+    <box top='26' left='113' width='78' height='79'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image012.bmp'>
+    <box top='24' left='114' width='80' height='82'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image013.bmp'>
+    <box top='22' left='114' width='83' height='83'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image014.bmp'>
+    <box top='20' left='110' width='85' height='85'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image015.bmp'>
+    <box top='17' left='115' width='87' height='88'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image016.bmp'>
+    <box top='15' left='112' width='88' height='90'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image017.bmp'>
+    <box top='8' left='110' width='93' height='98'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image018.bmp'>
+    <box top='4' left='110' width='99' height='100'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image019.bmp'>
+    <box top='35' left='223' width='66' height='69'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image020.bmp'>
+    <box top='34' left='225' width='67' height='71'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image021.bmp'>
+    <box top='30' left='230' width='70' height='72'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image022.bmp'>
+    <box top='30' left='232' width='70' height='72'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image023.bmp'>
+    <box top='27' left='229' width='75' height='77'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image024.bmp'>
+    <box top='27' left='229' width='74' height='76'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image025.bmp'>
+    <box top='24' left='235' width='76' height='81'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image026.bmp'>
+    <box top='23' left='242' width='76' height='80'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image027.bmp'>
+    <box top='55' left='208' width='47' height='49'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image028.bmp'>
+    <box top='53' left='209' width='50' height='52'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image029.bmp'>
+    <box top='53' left='209' width='51' height='52'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image030.bmp'>
+    <box top='51' left='212' width='51' height='54'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image031.bmp'>
+    <box top='51' left='221' width='54' height='55'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image032.bmp'>
+    <box top='49' left='211' width='55' height='56'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image033.bmp'>
+    <box top='46' left='216' width='56' height='59'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image034.bmp'>
+    <box top='45' left='216' width='58' height='60'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image035.bmp'>
+    <box top='46' left='216' width='58' height='59'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image036.bmp'>
+    <box top='44' left='220' width='56' height='59'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image037.bmp'>
+    <box top='42' left='223' width='59' height='63'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image038.bmp'>
+    <box top='42' left='227' width='60' height='62'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image039.bmp'>
+    <box top='38' left='227' width='61' height='66'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image040.bmp'>
+    <box top='35' left='230' width='66' height='68'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image041.bmp'>
+    <box top='33' left='231' width='68' height='70'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image042.bmp'>
+    <box top='64' left='35' width='44' height='44'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image043.bmp'>
+    <box top='61' left='42' width='42' height='42'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image044.bmp'>
+    <box top='63' left='47' width='42' height='42'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image045.bmp'>
+    <box top='63' left='44' width='44' height='43'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image046.bmp'>
+    <box top='62' left='47' width='43' height='43'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image047.bmp'>
+    <box top='61' left='40' width='44' height='44'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image048.bmp'>
+    <box top='60' left='30' width='46' height='47'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image049.bmp'>
+    <box top='60' left='30' width='46' height='45'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image050.bmp'>
+    <box top='59' left='37' width='46' height='47'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image051.bmp'>
+    <box top='59' left='36' width='47' height='48'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image053.bmp'>
+    <box top='57' left='26' width='51' height='50'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image054.bmp'>
+    <box top='56' left='24' width='51' height='51'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image055.bmp'>
+    <box top='55' left='23' width='52' height='52'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image056.bmp'>
+    <box top='54' left='27' width='53' height='52'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image057.bmp'>
+    <box top='52' left='19' width='54' height='55'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image058.bmp'>
+    <box top='50' left='11' width='55' height='56'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image059.bmp'>
+    <box top='50' left='15' width='55' height='57'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image060.bmp'>
+    <box top='49' left='15' width='56' height='58'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image061.bmp'>
+    <box top='47' left='14' width='57' height='59'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image062.bmp'>
+    <box top='46' left='8' width='60' height='60'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image063.bmp'>
+    <box top='45' left='3' width='61' height='62'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201001.bmp'>
+    <box top='93' left='263' width='38' height='37'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201002.bmp'>
+    <box top='103' left='217' width='33' height='32'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201003.bmp'>
+    <box top='92' left='233' width='45' height='43'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201004.bmp'>
+    <box top='80' left='252' width='58' height='55'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201005.bmp'>
+    <box top='102' left='105' width='39' height='39'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201006.bmp'>
+    <box top='84' left='83' width='55' height='55'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201007.bmp'>
+    <box top='54' left='58' width='90' height='93'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201008.bmp'>
+    <box top='27' left='25' width='116' height='122'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201009.bmp'>
+    <box top='92' left='105' width='48' height='51'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201010.bmp'>
+    <box top='91' left='69' width='50' height='50'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201011.bmp'>
+    <box top='67' left='39' width='72' height='77'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201012.bmp'>
+    <box top='31' left='3' width='117' height='124'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201013.bmp'>
+    <box top='93' left='94' width='54' height='54'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201014.bmp'>
+    <box top='99' left='104' width='45' height='43'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201015.bmp'>
+    <box top='82' left='74' width='60' height='61'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201016.bmp'>
+    <box top='91' left='168' width='49' height='48'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201017.bmp'>
+    <box top='74' left='193' width='63' height='63'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201018.bmp'>
+    <box top='48' left='202' width='92' height='87'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201019.bmp'>
+    <box top='93' left='177' width='40' height='41'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201020.bmp'>
+    <box top='70' left='239' width='65' height='66'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201021.bmp'>
+    <box top='62' left='232' width='77' height='77'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201022.bmp'>
+    <box top='62' left='103' width='75' height='74'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201023.bmp'>
+    <box top='97' left='129' width='39' height='39'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201024.bmp'>
+    <box top='70' left='197' width='63' height='63'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201025.bmp'>
+    <box top='61' left='22' width='82' height='80'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201026.bmp'>
+    <box top='89' left='77' width='51' height='49'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201027.bmp'>
+    <box top='65' left='49' width='72' height='74'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201028.bmp'>
+    <box top='98' left='51' width='42' height='42'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201029.bmp'>
+    <box top='103' left='30' width='40' height='37'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201030.bmp'>
+    <box top='91' left='30' width='55' height='50'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201031.bmp'>
+    <box top='79' left='4' width='67' height='65'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201032.bmp'>
+    <box top='104' left='64' width='36' height='36'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201033.bmp'>
+    <box top='74' left='135' width='63' height='63'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201034.bmp'>
+    <box top='54' left='125' width='83' height='82'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201035.bmp'>
+    <box top='30' left='111' width='103' height='104'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201036.bmp'>
+    <box top='69' left='129' width='69' height='68'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201037.bmp'>
+    <box top='86' left='153' width='51' height='51'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201038.bmp'>
+    <box top='93' left='171' width='41' height='39'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201039.bmp'>
+    <box top='67' left='166' width='68' height='65'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201040.bmp'>
+    <box top='52' left='196' width='83' height='78'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201041.bmp'>
+    <box top='32' left='96' width='106' height='105'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201042.bmp'>
+    <box top='92' left='167' width='44' height='44'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201043.bmp'>
+    <box top='88' left='118' width='50' height='50'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201044.bmp'>
+    <box top='76' left='84' width='65' height='61'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201045.bmp'>
+    <box top='63' left='39' width='79' height='79'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201046.bmp'>
+    <box top='82' left='42' width='59' height='60'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201047.bmp'>
+    <box top='86' left='214' width='52' height='48'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201048.bmp'>
+    <box top='74' left='190' width='60' height='61'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201049.bmp'>
+    <box top='62' left='196' width='78' height='73'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201050.bmp'>
+    <box top='44' left='201' width='90' height='88'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201051.bmp'>
+    <box top='91' left='148' width='44' height='44'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201052.bmp'>
+    <box top='75' left='213' width='59' height='56'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201053.bmp'>
+    <box top='75' left='47' width='64' height='64'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201054.bmp'>
+    <box top='56' left='102' width='82' height='80'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201055.bmp'>
+    <box top='63' left='16' width='82' height='77'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201056.bmp'>
+    <box top='84' left='50' width='58' height='55'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201057.bmp'>
+    <box top='83' left='142' width='53' height='52'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201058.bmp'>
+    <box top='47' left='142' width='90' height='86'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201059.bmp'>
+    <box top='19' left='183' width='121' height='114'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201060.bmp'>
+    <box top='97' left='201' width='32' height='34'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201061.bmp'>
+    <box top='87' left='236' width='44' height='43'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201062.bmp'>
+    <box top='59' left='240' width='76' height='69'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201063.bmp'>
+    <box top='99' left='158' width='36' height='36'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201064.bmp'>
+    <box top='90' left='162' width='45' height='46'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201065.bmp'>
+    <box top='70' left='159' width='63' height='65'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201066.bmp'>
+    <box top='43' left='198' width='94' height='88'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201067.bmp'>
+    <box top='93' left='237' width='40' height='38'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201068.bmp'>
+    <box top='84' left='237' width='46' height='43'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201069.bmp'>
+    <box top='76' left='222' width='60' height='56'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201070.bmp'>
+    <box top='59' left='235' width='72' height='70'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201071.bmp'>
+    <box top='60' left='103' width='77' height='76'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201072.bmp'>
+    <box top='100' left='124' width='36' height='37'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201073.bmp'>
+    <box top='88' left='100' width='53' height='51'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201074.bmp'>
+    <box top='66' left='84' width='75' height='74'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201075.bmp'>
+    <box top='91' left='221' width='41' height='42'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201076.bmp'>
+    <box top='87' left='213' width='48' height='45'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201077.bmp'>
+    <box top='74' left='224' width='59' height='58'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201078.bmp'>
+    <box top='52' left='229' width='78' height='79'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201079.bmp'>
+    <box top='98' left='84' width='38' height='41'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201080.bmp'>
+    <box top='93' left='65' width='48' height='46'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201081.bmp'>
+    <box top='85' left='28' width='60' height='56'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201082.bmp'>
+    <box top='74' left='18' width='70' height='68'>
+      <label>limit</label>
+    </box>
+  </image>
+  <image file='image08201083.bmp'>
+    <box top='70' left='1' width='71' height='72'>
+      <label>limit</label>
+    </box>
+  </image>
+</images>
+</dataset>
