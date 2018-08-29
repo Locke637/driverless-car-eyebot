@@ -81,18 +81,18 @@ int main(int argc, char** argv) {
 //                                rgb_pixel(255,122,0)));
 //    signs.push_back(TrafficSign("PEDESTRE", "svm_detectors/pedestre_detector.svm",
 //                                rgb_pixel(255,255,0)));
-    signs.push_back(TrafficSign("STOP", "detector.svm",
+//   signs.push_back(TrafficSign("STOP", "detector.svm",
+//                                  rgb_pixel(255,0,0)));
+      signs.push_back(TrafficSign("UNLimit", "merged_limitcancel_detector.svm",
                                   rgb_pixel(255,0,0)));
-//      signs.push_back(TrafficSign("UN", "merged_limitcancel_detector.svm",
-//                                  rgb_pixel(255,0,0)));
-//      signs.push_back(TrafficSign("L", "merged_limit_detector.svm",
-//                                  rgb_pixel(255,0,0)));
-//      signs.push_back(TrafficSign("PED", "pedestrian_detector.svm",
-//                                  rgb_pixel(255,0,0)));
-//      signs.push_back(TrafficSign("gw", "giveway_detector.svm",
-//                                  rgb_pixel(255,0,0)));
-//      signs.push_back(TrafficSign("park", "park_detector.svm",
-//                                  rgb_pixel(255,0,0)));
+      signs.push_back(TrafficSign("Limit", "merged_limit_detector.svm",
+                                  rgb_pixel(255,0,0)));
+      signs.push_back(TrafficSign("PED", "pedestrian_detector.svm",
+                                  rgb_pixel(255,0,0)));
+      signs.push_back(TrafficSign("giveway", "giveway_detector.svm",
+                                  rgb_pixel(255,0,0)));
+      signs.push_back(TrafficSign("park", "park_detector.svm",
+                                  rgb_pixel(255,0,0)));
 
     std::vector<object_detector<image_scanner_type> > detectors;
 
