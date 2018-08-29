@@ -1,5 +1,5 @@
 # driverless-car
-lane detection；/n
+lane detection;
 traffic sign detection and classification；
 using cmake to compile；
 
