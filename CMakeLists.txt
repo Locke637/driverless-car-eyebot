@@ -5,7 +5,7 @@
 
 cmake_minimum_required(VERSION 2.8.4)
 
-PROJECT(transito-cv)
+PROJECT(driverless-car-eyebot)
 
 include(dlib/dlib/cmake)
 #include()
@@ -32,14 +32,6 @@ MACRO(add_source name)
 
 ENDMACRO()
 
-#add_source(hog_detector)
-#add_source(train_object_detector)
-#add_source(detect)
-#add_source(view_hog)
-#add_source(aopencv)
-#add_source(test) # mat to array2d
-
-#add_source(olddetect)
-#add_source(DetectOnBotV1)
-
-add_source(ftsdv06)
+add_source(ftsdv07)
+add_source(hog_detector)
+add_source(detect)
