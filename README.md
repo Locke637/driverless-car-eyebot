@@ -7,7 +7,8 @@ Carolo-Cup is an international autonomous driving competition held in German ann
 1. make sure you have installed cmake.
 2. download `dlib` from [dlib](https://github.com/davisking/dlib/tree/7ef7ba84b32651ae920f32935baf1a15fb65e204), and put it in your root folder.
 3. make sure you have installed opencv.
-4. (this step is for eyebot)replace the `/home/pi/eyebot/bin/sound` as the `sound`.
+4. (this step is for eyebot) replace the `/home/pi/eyebot/bin/sound` as the `sound`.
+5. (this step is for eyebot) copy `eyebot++.h`&`eyebot.h`&`types.h` in `/home/pi/eyebot/include` into `/usr/include` and change their permission by `sudo chmod 777 eyebot++.h eyebot.h types.h`.
 
 
 ## How to build
