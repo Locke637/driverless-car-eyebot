@@ -54,7 +54,7 @@ The detector will be saved to the file `detector.svm`. To change the file, use t
 
 Run `build/hog_detector -h` for more details.
 
-### if you want to view traffic sign detection results on computer
+### If you want to view traffic sign detection results on computer
 
 use the parameter `--wait` to wait for user input to show next image.
 
