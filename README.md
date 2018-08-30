@@ -57,7 +57,7 @@ Run `build/hog_detector -h` for more details.
 use the parameter `--wait` to wait for user input to show next image.
 
 ```
-build/detect --wait exam/*.jpg
+build/detect --wait exam/*.bmp
 ```
 
 lane detection;
