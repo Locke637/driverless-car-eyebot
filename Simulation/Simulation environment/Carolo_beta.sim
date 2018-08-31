@@ -1,0 +1,19 @@
+# Environment
+world ../../worlds/small/Carolo.wld
+
+# Objects
+object ../../objects/StopSign/stopsign.esObj
+StopSign 2300 1900 -45
+StopSign 2280 1250 135
+
+object ../../objects/ParkingSign/ParkingSign.esObj
+ParkingSign 1050 230 180
+
+object ../../objects/SpeedLimitSign/speedlimitsign.esObj
+SpeedLimitSign 50 1700 90
+
+object ../../objects/SpeedLimitSign/cancelspeedlimitsign.esObj
+CancelSpeedLimitSign 2000 2900 0
+
+# robotname x y phi
+S4 1000 340 180 Carolo_beta.x
